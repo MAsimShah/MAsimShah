@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I am a passionate and results-driven .𝗡𝗘𝗧 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 with extensive experience in designing, developing, and deploying high-performance web applications, mobile apps, and API solutions. My expertise lies in leveraging cutting-edge technologies to create scalable, secure, and user-friendly solutions that drive business growth and deliver exceptional user experiences.
+I am a passionate and results-driven 𝐅𝐮𝐥𝐥𝐒𝐭𝐚𝐜𝐤 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 with extensive experience in designing, developing, and deploying high-performance web applications, mobile apps, and API solutions. My expertise lies in leveraging cutting-edge technologies to create scalable, secure, and user-friendly solutions that drive business growth and deliver exceptional user experiences.
 
 
 ## 🌐 Socials:
