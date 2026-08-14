@@ -59,32 +59,6 @@ I specialize in **Clean Architecture**, **N-Tier** and **Microservices** pattern
 
 ---
 
-### 🚀 Featured Projects
-
-#### 🐾 [Pet Adoption API — .NET 9 Clean Architecture](https://github.com/MAsimShah/pet-adoption-api)
-Enterprise-ready Web API built with Clean Architecture, JWT authentication, and role-based access control for pet adoption workflows.
-`ASP.NET Core Web API` `EF Core 9` `SQL Server` `JWT Bearer` `AutoMapper` `FluentValidation` `Swagger`
-
-#### 🐾 [Pet Adoption Portal — Blazor Server & MudBlazor](https://github.com/MAsimShah/pet-adoption-blazor-server)
-Full-stack SPA connecting shelters with adopters, built with Blazor Server, real-time SignalR notifications, and a type-safe Refit HTTP client.
-`.NET 9` `Blazor Server` `MudBlazor` `Refit` `SignalR`
-
-#### 🏗️ UniSoft — Engineering & Operations Management System
-Centralized document and work-order management platform with Autodesk Forge and QuickBooks API integrations, RBAC, and Gantt-based scheduling.
-`ASP.NET Core MVC` `EF Core` `Autodesk Forge API` `QuickBooks API` `SignalR` `Quartz.NET`
-
-#### 🚛 Nektar — Industrial Asset & Operations Management
-Enterprise asset lifecycle platform for construction, pipeline, and logistics sectors with real-time driver tracking and serverless Azure Functions.
-`ASP.NET MVC` `SignalR` `Azure Functions` `Geo-location API` `Sentry` `Application Insights`
-
-#### 🎓 GradPlanner — BYU-Pathway Worldwide
-Scalable educational portal for enrollment and degree progression, integrating a React SPA frontend with a Dockerized ASP.NET Core API backend.
-`ASP.NET Core API` `React.js` `JWT` `Redis` `FluentMigrator` `Docker`
-
-> More projects and technical details are available on request — see full resume/portfolio.
-
----
-
 ### 💼 Experience Snapshot
 
 | Role | Company | Duration |
