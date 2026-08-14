@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:shahasim190@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/asimshah190"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <img src="https://img.shields.io/badge/Location-Multan%2C%20Pakistan-2F81F7?style=for-the-badge">
 </p>
 
@@ -22,7 +22,7 @@ I specialize in **Clean Architecture**, **N-Tier** and **Microservices** pattern
 - 🔭 Currently leading backend architecture & mentoring developers at **BurjSoft Pvt Ltd**
 - 🌱 Deepening expertise in **.NET 9**, **Blazor Server**, and **Clean Architecture**
 - 💼 5+ years shipping production systems in construction, logistics, education, and compliance domains
-- 📫 Reach me at **youremail@example.com**
+- 📫 Reach me at **shahasim190@gmail.com**
 
 ---
 
